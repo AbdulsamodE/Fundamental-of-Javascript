@@ -33,3 +33,16 @@ This project serves as a **learning playground** while following a JavaScript co
 ```bash
 git clone https://github.com/AbdulsamodE/Fundamental-of-Javascript.git
 ```
+
+## 📌 Note
+
+This code is not meant to be perfect — it's a collection of **learning steps** and **practice exercises**.  
+Feel free to **fork** this repository and learn along with me.
+
+---
+
+## 👨‍💻 Author
+
+**Abdulsamod Enitan**  
+Aspiring Frontend Developer 🚀  
+GitHub: [@AbdulsamodE](https://github.com/AbdulsamodE)
